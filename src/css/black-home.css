@@ -131,3 +131,37 @@
     font-family: "RobotoCondensed-Regular";
     font-size: 26px;
 }
+
+.Perros{
+    margin-top: -630px;
+    margin-left: 930px;
+}
+
+.Casilla {
+    margin-left: -25px;
+    margin-top: 10px;
+    display: flex;
+    bottom: 10;
+    left: 10;
+    justify-content: center;
+    left: 40%;
+    gap: 10px;
+    border-radius:50px;
+    width: 100%;
+    background-color: var(--color-4);
+}
+
+.Casilla {
+    width: 90%;
+    padding: -30px 19px;
+}
+.Casilla p{
+    background-color: var(--color-4);
+    font-family: "RobotoCondensed-Bold";
+    font-size: 30px;
+}
+.Casilla img{
+    background-color: var(--color-4);
+    height: 28px;
+    gap: 20px;
+}
