@@ -84,6 +84,7 @@
     display: flex;
     margin-left: 100px;
     margin-top: 50px;
+    
 }
 
 .nav__categoria2 li a {
@@ -99,4 +100,34 @@
     margin-left: 1570px;
     display: flex;
     gap: 40px;
+}
+
+.Crae{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.Descripcion{
+    margin-top: 50px;
+    color: var(--color-4);
+    font-family: "RobotoCondensed-Regular";
+    font-size: 56.4px;
+}
+.Texto{
+    margin-top: 10px;
+    color: var(--color-4);
+    font-family: "RobotoCondensed-Regular";
+    font-size: 26px;
+}
+
+.Texto2{
+    color: var(--color-4);
+    font-family: "RobotoCondensed-Regular";
+    font-size: 26px;
+}
+
+.Texto3{
+    color: var(--color-4);
+    font-family: "RobotoCondensed-Regular";
+    font-size: 26px;
 }
