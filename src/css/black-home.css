@@ -93,3 +93,10 @@
     font-family: "RobotoCondensed-Bold";
     gap: 10px;
 }
+
+.imagenes {
+    margin-top: -105px;
+    margin-left: 1570px;
+    display: flex;
+    gap: 40px;
+}
