@@ -1,0 +1,50 @@
+@import url(variable.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: var(--color-2);
+}
+
+.footer_icon {
+    margin-left: -25px;
+    margin-top: 10px;
+    display: flex;
+    bottom: 0;
+    left: 0;
+    justify-content: center;
+    left: 4%;
+    gap: 2px;
+    border-radius:50px;
+    width: 10%;
+    background-color: var(--color-4);
+    padding: 10px;
+    z-index: 50;
+    gap: 10px;
+
+}
+
+.footer_shadow {
+    display: flex;
+    position: fixed;
+    top: 95%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    width: 90%;
+}
+.footer_icon p{
+    background-color: var(--color-4);
+    font-family: "RobotoCondensed-Regular";
+    font-size: 30px;
+    margin-top: 4px;
+}
+.footer_icon img{
+    background-color: var(--color-4);
+    height: 28px;
+    margin-top: 7px;
+
+}
